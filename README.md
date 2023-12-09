@@ -14,4 +14,4 @@ Le test c'est bient passer.
  
  Notre test Sonar Cloud passe.
  
- Dans les prochaine démonstration nous allons faire une ullistration avec Sonar Cube pour un projet beaucoup plus costaud
+ Dans les prochaines démonstrations nous allons faire une ullistration avec Sonar Cube pour un projet beaucoup plus costaud
